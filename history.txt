@@ -1,0 +1,16 @@
+ 1015  ls -al
+ 1016  git checkout feature
+ 1017  ls -al
+ 1018  touch README.md
+ 1019  ls
+ 1020  ls -al
+ 1021  git add .
+ 1022  git commit -m "first commit"
+ 1023  git push
+ 1024   git push --set-upstream origin feature\n
+ 1025  git commit --amend
+ 1026  git status
+ 1027  git log --oneline
+ 1028  git chechout main
+ 1029  git checkout main
+ 1030  git merge feature
